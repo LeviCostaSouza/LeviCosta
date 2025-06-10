@@ -2,7 +2,7 @@
 Me Chamo Levi Costa Souza, tenho 22 anos, e sou natural de Feira de Santana - BA, atualmente cursando Analise e Desenvolvimneto de Sistemas na UNIFAN, sou um desenvolvedor em transição, migrando da area administrativa, com foco em linguagem Python, busco oportunidades para aplicar e expandir conhecimentos. Comprometido com o aprendizado contínuo e a melhoria da qualidade dos códigos, visando crescimento profissional na área de tecnologia. </h3>
 
 #
-- 📚 Atualmente estudando: **Python, Banco de Dados.**
+- 📚 Atualmente estudando: **Python, Banco de Dados, FastAPI.**
 - 📫 Entre em contato: **levicostasouza@hotmail.com** ou através do Instagram/Linkedin    
 
   
@@ -15,7 +15,6 @@ Me Chamo Levi Costa Souza, tenho 22 anos, e sou natural de Feira de Santana - BA
 <h3 align="left" style="color: white;"> Linguagens e Tecnologias </h3> 
 <p align="left">       
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>      
 </p>  
 
